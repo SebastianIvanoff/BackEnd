@@ -1,0 +1,7 @@
+Det här är en text från text.txt
+ Det här är text som vi har lagt till
+ Det här är text som vi har lagt till
+ Det här är text som vi har lagt till
+ Det här är text som vi har lagt till
+ Det här är text som vi har lagt till
+Nu lägger jag till text igen...
